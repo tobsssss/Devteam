@@ -1,0 +1,14 @@
+# dotenv file
+.env
+
+# pycache
+**/__pycache__/
+
+# .json file
+lahn-google-cloud.json
+
+# vscode stuff
+.vscode
+
+# I dunno what this is
+.DS_Store
